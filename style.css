@@ -1,0 +1,13 @@
+img {
+    width: 10vw;
+}
+
+.squidward {
+    opacity: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.squidward:hover {
+    opacity: 1;
+}
